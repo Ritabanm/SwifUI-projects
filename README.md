@@ -1,4 +1,4 @@
-# SwifUI-projects
+# SwiftUI-projects
 Collection of iOS apps developed in SwiftUI
 
 1.Caffe: ML app using Linear regression to predict ideal sleep time for coffee drinkers.
